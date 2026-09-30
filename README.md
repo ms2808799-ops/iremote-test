@@ -16,7 +16,7 @@ This project is an automated attendance system designed to identify individuals 
 - **SQLite3:** For lightweight and efficient local data storage.
 
 ## Project Structure
-- `main5.py`: The main script that handles video streaming, face detection loops, and UI display.
+- `main2.py`: The main script that handles video streaming, face detection loops, and UI display.
 - `simple_facerec.py`: A helper module containing the face encoding and recognition logic.
 - `database.py`: Manages SQLite database connection and attendance logging operations.
 - `pics/`: Directory containing reference images of authorized individuals.
