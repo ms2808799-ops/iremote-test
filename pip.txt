@@ -1,0 +1,3 @@
+By Language Python
+command -> pip list | grep numpy 
+to get numpy Version 
