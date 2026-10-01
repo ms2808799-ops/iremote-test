@@ -1,0 +1,4 @@
+type in CLI
+pip list | grep numpy 
+to get numpy Version
+ 
